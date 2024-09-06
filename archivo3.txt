@@ -1,8 +1,6 @@
-hola mundo!
-<<<<<<< HEAD
+hola mundo
 hola mundo 2
 =======
 hola mundo 2
 
-Esto es una prueba de la rama c
->>>>>>> ramac
+Esto es una prueba de la rama b
