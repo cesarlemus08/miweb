@@ -1,2 +1,8 @@
 hola mundo!
+<<<<<<< HEAD
 hola mundo 2
+=======
+hola mundo 2
+
+Esto es una prueba de la rama c
+>>>>>>> ramac
